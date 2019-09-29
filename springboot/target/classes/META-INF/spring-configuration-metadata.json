@@ -1,0 +1,27 @@
+{
+  "groups": [
+    {
+      "name": "person",
+      "type": "com.it.study.controller.Quick3Controller",
+      "sourceType": "com.it.study.controller.Quick3Controller"
+    }
+  ],
+  "properties": [
+    {
+      "name": "person.addr",
+      "type": "java.lang.String",
+      "sourceType": "com.it.study.controller.Quick3Controller"
+    },
+    {
+      "name": "person.age",
+      "type": "java.lang.Integer",
+      "sourceType": "com.it.study.controller.Quick3Controller"
+    },
+    {
+      "name": "person.name",
+      "type": "java.lang.String",
+      "sourceType": "com.it.study.controller.Quick3Controller"
+    }
+  ],
+  "hints": []
+}
